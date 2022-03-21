@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "dJy8144anJ86L8IhY2C2022thgR88GiiMJ1u3I4ACohVvFU4KpeofD5KDPF4obYAc8AiFOR4mijwLy0EuyvVVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos.Mello\\Desktop\\learnSpace\\Angular.Net\\Template\\Template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.22\\microsoft.aspnetcore.nodeservices.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.22\\microsoft.aspnetcore.spaservices.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\3.1.22\\microsoft.aspnetcore.spaservices.extensions.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.22\\microsoft.extensions.configuration.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.22\\microsoft.extensions.configuration.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.22\\microsoft.extensions.configuration.binder.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.22\\microsoft.extensions.dependencyinjection.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.22\\microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.22\\microsoft.extensions.fileproviders.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.22\\microsoft.extensions.fileproviders.physical.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.22\\microsoft.extensions.filesystemglobbing.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.logging\\3.1.22\\microsoft.extensions.logging.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.22\\microsoft.extensions.logging.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.22\\microsoft.extensions.logging.configuration.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.22\\microsoft.extensions.logging.console.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.options\\3.1.22\\microsoft.extensions.options.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.22\\microsoft.extensions.options.configurationextensions.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.22\\microsoft.extensions.primitives.3.1.22.nupkg.sha512",
+    "C:\\Users\\Carlos.Mello\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
